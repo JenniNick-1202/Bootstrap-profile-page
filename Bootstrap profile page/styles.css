@@ -1,0 +1,23 @@
+.navbar-brand {
+    font-family: "Archivo Black", sans-serif;
+}
+
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+.list-group {
+    list-style: none;
+}
+
+.card-title {
+    font-family: "Archivo Black", sans-serif;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
